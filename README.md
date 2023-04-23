@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @amiin004
-- 👀 I’m interested in ...basic programming
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...no one
-- 📫 How to reach me ...my gmail
+- 👋 Hi, I’m MOhamedamin
+- 👀 I’m interested in Data Science and Data Analysis
+- 🌱 I’m currently learning a student and a part time worker
+- 💞️ I’m looking to collaborate with almost anayone
+- 📫 How to reach me for collaboration at aminmohamed1708@gmail.com
 
-<!---
-amiin004/amiin004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
